@@ -1,0 +1,37 @@
+
+`	java:S112d"FDefine and throw a dedicated exception instead of using a generic one.(êæŒ»ÿÿÿÿÿ
+™
+java:S1130"~Remove the declaration of thrown exception 'java.security.NoSuchProviderException', as it cannot be thrown from method's body.(”äæÌşÿÿÿÿ
+Œ
+java:S1130"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(”äæÌşÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(óÎùûÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ùÙË‹ûÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Ò¬©šıÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ï‡£Ì
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(®ã‹øúÿÿÿÿ
+>	java:S1082")Either remove or fill this block of code.(”ı¾
+•
+java:S1130@"Remove the declaration of thrown exception 'javax.crypto.IllegalBlockSizeException', as it cannot be thrown from method's body.(ºÃ´ñ
+
+java:S1130@"zRemove the declaration of thrown exception 'java.security.InvalidKeyException', as it cannot be thrown from method's body.(ºÃ´ñ
+
+java:S1130@"yRemove the declaration of thrown exception 'javax.crypto.BadPaddingException', as it cannot be thrown from method's body.(ºÃ´ñ
+’
+java:S1130@"|Remove the declaration of thrown exception 'javax.crypto.NoSuchPaddingException', as it cannot be thrown from method's body.(ºÃ´ñ
+_
+java:S2147a"DCombine this catch with the one at line 95, which has the same body.(¢ÙÃÌÿÿÿÿÿ
+Z
+java:S2147e"DCombine this catch with the one at line 95, which has the same body.(õ¡½Ä
+_
+java:S2147g"DCombine this catch with the one at line 95, which has the same body.(ºÍÒèüÿÿÿÿ
+Q	java:S125`"<This block of commented-out lines of code should be removed.(½›·Û
+Q	java:S125b"<This block of commented-out lines of code should be removed.(Ó´ê
+V	java:S125f"<This block of commented-out lines of code should be removed.(åÑÚòûÿÿÿÿ
+Q	java:S125h"<This block of commented-out lines of code should be removed.(”òß
+G
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ
+K
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ
+U
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(åõùŒ

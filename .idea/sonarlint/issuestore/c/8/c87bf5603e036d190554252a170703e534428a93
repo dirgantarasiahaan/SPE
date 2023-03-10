@@ -1,0 +1,8 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(úşè
+Q	java:S125"<This block of commented-out lines of code should be removed.(ØöÕ
+F
+java:S2201"+The return value of "isEmpty" must be used.(Ãğª©úÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(’ö·Òüÿÿÿÿ
+Z
+java:S2259"?A "NullPointerException" could be thrown; "a" is nullable here.(Ãğª©úÿÿÿÿ
